@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/Dark-in/main/banner.png"/>
+<img align="center" src="./banner.png"/>
 <h1 align="center">Hi 👋, I'm YASAR ARAFATH</h1>
 <h3 align="center">A passionate Web developer & Android developer from Tamil Nadu</h3>
 
