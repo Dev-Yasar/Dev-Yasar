@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate Web developer & Android developer from Tamil Nadu</h3>
 
-- 🌱 I’m currently learning **React Js,C#,**
+- 🌱 I’m currently learning **React Js,Fultter,**
 
-- 📫 How to reach me **arafatharafath925@gmail.com**
+- 📫 How to reach me **arafathdeveloper@gmail.com**
 
 - 📄 Know about my [https://drive.google.com/file/d/1uv0Yp20cDKN3tMdyViOb4eRgZ5UJhxCA/view?usp=drivesdk](https://drive.google.com/file/d/1uv0Yp20cDKN3tMdyViOb4eRgZ5UJhxCA/view?usp=drivesdk)
 
