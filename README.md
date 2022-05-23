@@ -1,4 +1,4 @@
-<img align="center" src="./banner.png"/>
+
 
 <h3 align="center">A passionate Web developer & Android developer from Tamil Nadu</h3>
 
