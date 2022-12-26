@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React , C# for unity**
 
-- 📫 How to reach me **arafathdeveloper@gmail**
+- 📫 How to reach me **arafathdeveloper@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OjmS5nuzCVIdzlYK_d5jXU-g5-gYvs5I/view?usp=sharing](https://drive.google.com/file/d/1OjmS5nuzCVIdzlYK_d5jXU-g5-gYvs5I/view?usp=sharing)
 
