@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm YASAR ARAFATH M</h1>
-<h3 align="center">A passionate developer from TAMIL NADU</h3>
+![Black Modern Blogger YouTube Banner](https://user-images.githubusercontent.com/68767718/209571720-49cd006c-36df-4d54-b52e-e9eebf020394.png)
+
 
 - 🔭 I’m currently working on **Project Rescue**
 
